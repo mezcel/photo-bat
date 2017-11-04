@@ -7,3 +7,5 @@ just a personal multimedia transfer hack for Win to iOS
 * multimedia
 
 I have not made the Bash version yet.. but you get the gist. It will be the same thing but Bash-ed
+
+![screenshot](batscreenshot.png?raw=true "the bat is just a logo")
