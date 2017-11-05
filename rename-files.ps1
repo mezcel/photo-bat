@@ -17,14 +17,14 @@ $desiredFileExtension = ".txt"
 Write-Host "You want to rename all *.'$desiredFileExtension' in '$sourcedir'"
 Write-Host "sourcedir = '$sourcedir'"
 
-$mycounter=1
+$mycounter=1000000
 $files = Get-ChildItem -Path $sourcedir -Filter *$desiredFileExtension
 #$files = Get-ChildItem -Path C:\Users\mezce\Documents\PowershellDemo\textFolder
 
 foreach ($file in $files) 
 {
 	Write-Host "Renamed: '$file'"
-    Rename-Item $file.name ("P100000"+$mycounter+$desiredFileExtension)
+    Rename-Item $file.name ("P"+$mycounter+$desiredFileExtension)
 	$mycounter = $mycounter+1
 }
 
