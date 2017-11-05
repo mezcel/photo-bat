@@ -5,7 +5,14 @@ A personal multimedia transfer hack for Win to iOS
 
 #### Working WIP
 This is just a quick and dirty script. I was playing with BATCH and learning "ancient" DOS scripting.
-<span style="color: red"> WARNING! I dont have any error traps. </span> So read the prompts and dont commit the final step untill you agree with the confirmation screen.
+```diff
+- WARNING! I dont have any error traps. </span> So read the prompts and dont commit the final step untill you agree with the confirmation screen.
+```
+
+#### Enclosed
+* Batch (Dos Executable)
+* Text (just Ascii Art)
+* PowerShell (Alternate Windows Executable) Extra File
 
 ##### Dependancies:
 * iPad (i still have and use the iPad 1)
