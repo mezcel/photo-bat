@@ -6,7 +6,8 @@ A personal multimedia transfer hack for Win to iOS
 #### Working WIP
 This is just a quick and dirty script. I was playing with BATCH and learning "ancient" DOS scripting.
 ```diff
-- WARNING! I dont have any error traps. </span> So read the prompts and dont commit the final step untill you agree with the confirmation screen.
+- WARNING! I dont have any error traps.
+- So read the prompts and dont commit the final step untill you agree with the confirmation screen.
 ```
 
 #### Enclosed
