@@ -1,7 +1,7 @@
 # photo-bat
 A personal multimedia transfer hack for Win to iOS
 
-> This formats multimedia files to be read by the iPad via Apple iPad Camera Connection Kit
+> This formats multimedia files to be read by the iPad via Apple iPad Camera Connection Usb
 
 #### Working WIP
 This is just a quick and dirty script. I was playing with BATCH and learning "ancient" DOS scripting. Enclosed is a PoweerShell equivalent.
